@@ -1,5 +1,5 @@
 # UWaterloo Magic API
-## Author: WhiteSin
+Author: WhiteSin
 
 ### Features:
 - [x] Login to Learn
