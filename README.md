@@ -1,7 +1,5 @@
-# UWaterloo Magic API 
+# UWaterloo Magic API (v1.0)
 Author: WhiteSin
-
-[![Version]()]()
 ### Features:
 - [x] Login to Learn
 - [x] Login to Portal
