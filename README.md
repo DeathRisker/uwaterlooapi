@@ -15,8 +15,8 @@ with __request header__:
 
 ## Endpoints
 ### Login
-- [__POST /courses__](login/login.md)
-- [__POST /courses__](login/login.md)
+- [__POST /getLearnCookie__](login/login.md)
+- [__POST /getPortalCookie__](login/login.md)
 
 ### Learn Courses Information
 - [__GET /courses__](courses/courses.md)

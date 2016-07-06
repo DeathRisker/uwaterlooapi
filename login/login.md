@@ -1,6 +1,6 @@
 ### Login
-1. __POST */getLearnCookie*__
-2. __POST */getPortalCookie*__
+1. __POST /getLearnCookie__
+2. __POST /getPortalCookie__
 
 Call this endpoint to get the Learn or Portal cookies
 
