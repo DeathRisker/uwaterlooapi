@@ -1,4 +1,5 @@
 __GET /courses/{courseID}__ Returns course information specified by ID
+
 Request body:
 ```
 {
