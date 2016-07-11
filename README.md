@@ -21,3 +21,4 @@ with __request header__:
 ### Learn Courses Information
 - [__GET /courses__](courses/courses.md)
 - [__GET /courses/{courseID}__](courses/course_id.md)
+- [__GET /courses/{courseID}/{contentID}__](courses/content_id.md)

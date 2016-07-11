@@ -1,6 +1,6 @@
 __GET /courses/{courseID}__ Returns course information specified by ID
 
-Request body:
+Request Header:
 ```
 {
   'Cookie': {learn_cookies}
