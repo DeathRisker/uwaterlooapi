@@ -55,43 +55,12 @@ Example response:
     "amount": "20.00",
     "type": "(003)PPAY ADMIN",
     "time": "17:31:19"
-  },
-  {
-    "date": "03/24/2016",
-    "terminal": "(00426)WAT-TASK         ",
-    "amount": "20.00",
-    "type": "(003)PPAY ADMIN",
-    "time": "17:31:19"
-  },
-  {
-    "date": "03/24/2016",
-    "terminal": "(00426)WAT-TASK         ",
-    "amount": "20.00",
-    "type": "(003)PPAY ADMIN",
-    "time": "17:31:19"
-  },
-  {
-    "date": "03/24/2016",
-    "terminal": "(00426)WAT-TASK         ",
-    "amount": "20.00",
-    "type": "(003)PPAY ADMIN",
-    "time": "17:31:19"
-  },
-  {
-    "date": "03/24/2016",
-    "terminal": "(00426)WAT-TASK         ",
-    "amount": "20.00",
-    "type": "(003)PPAY ADMIN",
-    "time": "17:31:19"
-  },
-  {
-    "date": "03/24/2016",
-    "terminal": "(00426)WAT-TASK         ",
-    "amount": "20.00",
-    "type": "(003)PPAY ADMIN",
-    "time": "17:31:19"
   }
 ]
 ```
 #### 3. Add funds
-__url:__ https://www.watcard.uwaterloo.ca/oneweb/addfunds.asp 
+__url:__ https://www.watcard.uwaterloo.ca/oneweb/addfunds.asp
+
+
+#### 4. Reset pin
+__POST /watcard/reset__
