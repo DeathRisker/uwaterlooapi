@@ -1,4 +1,5 @@
 ### Crowd Report
+#### 1. Get a location crowdness
 __GET /crowdReport?locationID={location_id}__
 
 Request Header:
@@ -20,6 +21,7 @@ Example Result:
   "id": 28
 }
 ```
+#### 2. Update the crowdness of a location
 __POST /crowdReport__
 
 URL parameters: __locationID = location id__, __value = [0,50,100]__
