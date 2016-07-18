@@ -1,5 +1,5 @@
-### WatCard Service
-#### 1. Check balance
+## WatCard Service
+### 1. Check balance
 __POST /watcard/balance__
 
 Request body:
@@ -15,7 +15,7 @@ Example response:
   "balance": 40.12
 }
 ```
-#### 2. View transaction history
+### 2. View transaction history
 __POST /watcard/transaction__ Returns the transaction history within specified begin date and end date.
 
 Request body:
@@ -67,11 +67,11 @@ Example response:
   }
 ]
 ```
-#### 3. Add funds
+### 3. Add funds
 __url:__ https://www.watcard.uwaterloo.ca/oneweb/addfunds.asp
 
 
-#### 4. Reset pin
+### 4. Reset pin
 First Make a post call to __/watcard/requestReset__
 with request body:
 ```

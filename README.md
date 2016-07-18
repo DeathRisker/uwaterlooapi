@@ -31,4 +31,5 @@ with __request header__:
 ##### 2. Watcard
 - [__POST /watcard/balance__](watcard/watcard.md#1-check-balance)
 - [__POST /watcard/transaction__](watcard/watcard.md#2-view-transaction-history)
+- [__Add funds__](watcard/watcard.md#3-add-funds)
 - [__POST /watcard/reset__](watcard/watcard.md#4-reset-pin)
