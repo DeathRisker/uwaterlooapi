@@ -22,3 +22,13 @@ with __request header__:
 - [__GET /courses__](courses/courses.md)
 - [__GET /courses/{courseID}__](courses/course_id.md)
 - [__GET /courses/{courseID}/{contentID}__](courses/content_id.md)
+
+### Portal Services:
+##### 1. CrowdReport
+- [__GET /crowdReport?locationID={location_id}__](crowd_report/crowd_report.md) Get a location crowdness
+- [__POST /crowdReport?locationID={location_id}__](crowd_report/crowd_report.md) Report crowdness of a location
+
+##### 2. Watcard
+- [__POST /watcard/balance__](watcard/watcard.md)
+- [__POST /watcard/transaction__](watcard/watcard.md)
+- [__POST /watcard/reset__](watcard/watcard.md)
