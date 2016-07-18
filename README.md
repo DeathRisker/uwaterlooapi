@@ -25,10 +25,10 @@ with __request header__:
 
 ### Portal Services:
 ##### 1. CrowdReport
-- [__GET /crowdReport?locationID={location_id}__](crowd_report/crowd_report.md) Get a location crowdness
-- [__POST /crowdReport?locationID={location_id}__](crowd_report/crowd_report.md) Report crowdness of a location
+- [__GET /crowdReport?locationID={location_id}__](crowd_report/crowd_report.md#1-get-a-location-crowdness) Get a location crowdness
+- [__POST /crowdReport?locationID={location_id}__](crowd_report/crowd_report.md#2-update-the-crowdness-of-a-location) Report crowdness of a location
 
 ##### 2. Watcard
-- [__POST /watcard/balance__](watcard/watcard.md)
-- [__POST /watcard/transaction__](watcard/watcard.md)
-- [__POST /watcard/reset__](watcard/watcard.md)
+- [__POST /watcard/balance__](watcard/watcard.md#1-check-balance)
+- [__POST /watcard/transaction__](watcard/watcard.md#2-view-transaction-history)
+- [__POST /watcard/reset__](watcard/watcard.md#4-reset-pin)
