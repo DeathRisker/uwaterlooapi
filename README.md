@@ -11,7 +11,7 @@ https://0mcv9x2by9.execute-api.us-west-2.amazonaws.com/beta/{endpoint_path}
 `
 with __request header__:
 
-`x-api-key: PuA2B7LWGw1Af7CRdC9sD2jbzMzdEHJW3QitNgT6`
+`x-api-key: {message me for usage}`
 
 ## Endpoints
 ### Login
