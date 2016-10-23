@@ -12,11 +12,11 @@ Example Result:
 [
   {
     "courseName": "My Course 1",
-    "courseID": "10000"
+    "courseLink": "10000"
   },
   {
     "courseName": "My Course 2",
-    "courseID": "10001"
+    "courseLink": "10001"
   }
   ...
 ]
